@@ -1,0 +1,30 @@
+{
+  "row": 241,
+  "provider": "Vultr",
+  "target": "https://lestallion.com/blogs/product-reviews/best-desktop-calculators-for-businesses",
+  "prev": "https://f004.backblazeb2.com/file/interlinker-blackblaze/interlinker/productivity-desk-clocks/index.html",
+  "t1_url": "https://interlinker-vultr.sgp1.vultrobjects.com/interlinker/business-desktop-calculators/index.html",
+  "repo": "https://github.com/ArmarageX/lestallion-desktop-calculators-241",
+  "pages": [
+    "about.html",
+    "power-reliability.html",
+    "privacy.html",
+    "value-training.html",
+    "key-layout.html",
+    "contact.html",
+    "desk-placement.html",
+    "display-tape.html",
+    "accounting-fit.html",
+    "index.html"
+  ],
+  "images": [
+    "image-8.webp",
+    "image-3.webp",
+    "image-2.webp",
+    "image-4.webp",
+    "image-5.webp",
+    "image-1.webp",
+    "image-6.webp",
+    "image-7.webp"
+  ]
+}
